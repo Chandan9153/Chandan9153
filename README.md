@@ -2,12 +2,12 @@
 
 <!-- ===== HERO ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Chandan%20Kumar&fontAlign=50&fontAlignY=35&fontSize=72&fontColor=ffffff&animation=twinkling&desc=Java%20Backend%20Developer%20•%20DSA%20Enthusiast%20•%20Problem%20Solver&descAlignY=58&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=gradient&text=Chandan%20Kumar&fontAlign=50&fontAlignY=35&fontSize=74&fontColor=ffffff&animation=twinkling&desc=Java%20Backend%20Developer%20•%20DSA%20Enthusiast%20•%20Problem%20Solver&descAlignY=60&descSize=24"/>
 </p>
 
 <!-- ===== TYPING ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=1100&lines=☕+Java+Backend+Developer;🧠+DSA+%7C+Algorithms+%7C+OOPs;🗄️+SQL+%7C+JDBC+%7C+Servlets+%26+JSP;🚀+Clean+Code+%7C+Scalable+Systems+%7C+Learning+Daily"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=1200&lines=☕+Java+Backend+Developer;🧠+DSA+%7C+Algorithms+%7C+OOPs;🗄️+SQL+%7C+JDBC+%7C+Servlets+%26+JSP;🚀+Clean+Code+%7C+Scalable+Systems+%7C+Problem+Solving;🔥+Learning+Spring+Boot+%7C+REST+APIs"/>
 </p>
 
 <!-- ===== BADGES ===== -->
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/github/stars/Chandan9153?style=for-the-badge&logo=github&color=facc15"/>
   <img src="https://img.shields.io/badge/Role-Java%20Developer-FF6D00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0EA5E9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-India-138808?style=for-the-badge"/>
 </p>
 
@@ -26,9 +27,10 @@
 <div align="center">
 
 ## 👋 Hi, I’m **Chandan Kumar**
+
 🎓 **B.Tech – Computer Science**  
 🏛️ **Ramgarh Engineering College, Ramgarh**  
-💻 **Java Backend Developer**
+💻 **Aspiring Java Backend Engineer**
 
 </div>
 
@@ -39,14 +41,15 @@
 <pre><code>
 class ChandanKumar {
     String role = "Java Backend Developer";
+    String mindset = "Problem Solver";
     String college = "Ramgarh Engineering College";
 
-    String[] core = {
+    String[] coreSkills = {
         "Core Java", "Advanced Java", "OOPs",
         "DSA", "SQL"
     };
 
-    String[] backend = {
+    String[] backendSkills = {
         "JDBC", "Servlets", "JSP",
         "Spring (Basics)", "Hibernate (Basics)",
         "REST APIs"
@@ -57,9 +60,9 @@ class ChandanKumar {
         "IntelliJ IDEA", "Maven"
     };
 
-    void mission() {
+    void vision() {
         System.out.println(
-          "Write clean code • Build scalable systems • Solve problems ☕🚀"
+            "Design clean code • Build scalable backends • Never stop learning ☕🚀"
         );
     }
 }
@@ -68,13 +71,14 @@ class ChandanKumar {
 </td>
 <td width="50%">
 
-### ⚡ Quick Highlights
-- 🔥 Backend-first mindset  
-- 🧠 Strong **DSA + SQL** foundation  
-- 🧩 MVC & layered architecture  
-- 📈 Consistent learner & builder  
+### ⚡ What Defines Me
+- 🔥 Backend-first engineering mindset  
+- 🧠 Strong fundamentals in **DSA & SQL**  
+- 🧩 MVC, Layered & Clean Architecture  
+- 📈 Consistent learner, daily coding habit  
+- 🤝 Team player with clear communication  
 
-> 💡 *“Simple code scales better.”*
+> 💡 *“Strong fundamentals beat fancy frameworks.”*
 
 </td>
 </tr>
@@ -82,14 +86,15 @@ class ChandanKumar {
 
 <img src="https://user-images.githubusercontent.com/74038190/212750084-46b9a6b2-47d2-4d5c-aad8-71b4a4a1dbd1.gif" width="100%"/>
 
-<!-- ===== SKILL METERS ===== -->
-## 🧩 Skill Levels
+<!-- ===== SKILL PROGRESS ===== -->
+## 📊 Skill Progress
 
 <pre><code>
 Core Java        ██████████ 90%
 Advanced Java    █████████░ 85%
 DSA              ████████░░ 80%
 SQL              █████████░ 85%
+JDBC & Servlets  ████████░░ 80%
 Spring Basics    ██████░░░░ 65%
 Hibernate        ██████░░░░ 65%
 </code></pre>
@@ -100,6 +105,8 @@ Hibernate        ██████░░░░ 65%
 <p align="center">
   <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/Advanced%20Java-007396?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JDBC-2C2255?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Servlets%20%26%20JSP-6DB33F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Spring-Basics-6DB33F?style=for-the-badge&logo=spring"/>
@@ -111,21 +118,37 @@ Hibernate        ██████░░░░ 65%
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-68bdebdc-1e79-4b5d-b98d-5c94c7d1d73a.gif" width="100%"/>
 
-<!-- ===== WORKFLOW ===== -->
-## 🔄 Backend Development Flow
+<!-- ===== ENGINEERING FLOW ===== -->
+## 🔄 How I Build Backend Systems
 
 <pre><code>
-Requirements → Design → Java Coding → Database
-            → Testing → Optimization → Deployment
+Understand Requirements
+        ↓
+Design Database & APIs
+        ↓
+Write Clean Java Code
+        ↓
+Integrate SQL & Backend Logic
+        ↓
+Test, Optimize & Refactor
+        ↓
+Deploy & Monitor
 </code></pre>
+
+<!-- ===== CURRENT FOCUS ===== -->
+## 🎯 Current Focus
+- 🔥 Spring Boot fundamentals  
+- 🔥 REST API design & best practices  
+- 🔥 Optimizing DSA solutions  
+- 🔥 Writing production-ready Java code  
 
 <!-- ===== PROJECTS ===== -->
 ## 🚀 What I Build
-- ✅ Java Console Applications  
-- ✅ JDBC + MySQL CRUD Systems  
-- ✅ Servlet & JSP Web Apps  
-- ✅ REST APIs (Beginner – Spring)  
-- ✅ DSA Solutions in Java  
+- Java Console Applications  
+- JDBC + MySQL CRUD Systems  
+- Servlet & JSP Web Applications  
+- REST APIs (Beginner – Spring)  
+- DSA Problem Solutions (Java)  
 
 <!-- ===== STATS ===== -->
 ## 📊 GitHub Analytics
@@ -169,7 +192,7 @@ Requirements → Design → Java Coding → Database
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&text=Happy%20Coding%20☕%20Build%20Strong%20Backends%20🚀&fontSize=24&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&section=footer&text=Keep%20Learning%20•%20Keep%20Building%20•%20Never%20Stop%20☕🚀&fontSize=24&fontColor=ffffff"/>
 </p>
 
 <p align="center">
