@@ -38,7 +38,6 @@
 <tr>
 <td width="50%">
 
-```java
 class ChandanKumar {
     String role = "Java Developer";
     String college = "Ramgarh Engineering College";
@@ -53,6 +52,7 @@ class ChandanKumar {
         System.out.println("Building scalable Java backends ☕🚀");
     }
 }
+
 </td> <td width="50%">
 🚀 Quick Facts
 Backend-focused Java developer
